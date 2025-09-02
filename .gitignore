@@ -7,3 +7,9 @@
 *.eqt
 *.txt
 course-xiao/*
+seg_model/*
+denoise/*
+denoise/DeepDenoiser
+denoise/iDAS-self-supervised-denoising
+seg_model/mmsegmentation
+seg_model/SegNeXt
